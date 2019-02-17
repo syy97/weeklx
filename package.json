@@ -1,0 +1,21 @@
+{
+    "name": "weeklx",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "gulp dev",
+        "build": "gulp build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/syy97/weeklx.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/syy97/weeklx/issues"
+    },
+    "homepage": "https://github.com/syy97/weeklx#readme"
+}
